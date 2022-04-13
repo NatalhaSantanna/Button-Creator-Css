@@ -1,2 +1,2 @@
 # Button-Creator-CSS
- programa feito para personalizar um botão com as propriedades de css, e ele retorna o código css ao usuário para  usar em seu projeto. 
+ Programa feito para personalizar um botão. Onde é possível mudar as suas propriedades de css e  modificar o texto do botão. Ele retorna ao usuário o código css para usar em seu projeto. 
